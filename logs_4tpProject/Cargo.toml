@@ -1,0 +1,6 @@
+[package]
+name = "logs_4tpProject"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
